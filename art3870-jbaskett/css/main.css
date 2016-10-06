@@ -1,0 +1,14 @@
+
+
+#greeting{color:coral;
+font-family: sans-serif;
+}
+
+.thumbnail {
+height: 100%;
+width: 100%;
+-moz-border-radius: 35px;
+border-radius: 35px;
+}
+
+h1 {font-family: 'Ruslan Display', cursive;}
